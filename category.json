@@ -363,6 +363,13 @@
       "logo": "https://i.postimg.cc/VvZrmWSL/Glossy-Pi-SHOW-Orange-Badge-Photoroom.png",
       "playlistUrl": "https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/pishow.m3u",
       "enabled": true
+    },
+    {
+      "id": "allcountry",
+      "title": "All country",
+      "logo": "https://i.postimg.cc/VvZrmWSL/Glossy-Pi-SHOW-Orange-Badge-Photoroom.png",
+      "playlistUrl": "https://raw.githubusercontent.com/jbuc50/All-country/refs/heads/main/allcountry.json",
+      "enabled": true
     }
   ]
 }
