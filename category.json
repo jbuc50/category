@@ -366,7 +366,7 @@
     },
     {
       "id": "allcountry",
-      "title": "All country",
+      "title": "All Country",
       "logo": "https://i.postimg.cc/VvZrmWSL/Glossy-Pi-SHOW-Orange-Badge-Photoroom.png",
       "playlistUrl": "https://raw.githubusercontent.com/jbuc50/All-country/refs/heads/main/allcountry.json",
       "enabled": true
